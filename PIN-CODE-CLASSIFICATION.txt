@@ -1,0 +1,30 @@
+Region	Pincode
+Delhi	11
+Haryana	12-13
+Punjab	14-15
+Chandigarh	16
+Himachal Pradesh	17
+Jammu and Kashmir	18-19
+UP and UK	20-28
+Rajasthan	30-34
+Gujarat	36-39
+Goa	403
+Maharashtra	40-44
+Madhya Pradesh	45-48
+Chhattisgarh	49
+Telangana	50
+Andhra Pradesh	51-53
+Karnataka	56-59
+Tamil Nadu	60-64
+Kerala	67-69
+Lakshadweep	682
+West Bengal	70-74
+Andaman and Nicobar 744
+Odisha	75-76
+Assam	78
+Arunachal Pradesh	79
+Meghalaya	793-794-783123
+Manipur	795
+Mizoram	796
+Tripura	799
+Bihar and Jharkhand	80-85
